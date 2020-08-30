@@ -2,9 +2,7 @@ package a3;
 
 
 /**
- * CS146 Assignment 3 Node class 
  * This class is used for undirected graphs represented as adjacency lists
- * @author andreopo
  *
  */
 public class Node {
