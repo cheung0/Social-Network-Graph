@@ -17,12 +17,10 @@ import java.util.Set;
 
 
 /**
- * CS146 Assignment 3 Node class 
  * This class is used for undirected graphs represented as adjacency lists
  * Class contains a breadth first search traversal method that needs to be implemented. 
  * It tells the distance that the 3980 person is from other nodes connected to it.
  * @author Michael Cheung
- * Student id: 014373619
  *
  */
 
