@@ -15,6 +15,25 @@
 
 
 
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+* Java 8
+
+### Installation
+
+1. Clone the repo
+```sh
+git clone https://github.com/github_username/repo_name.git
+```
+
+
+
 ## Thanks
 
 * [MIT 6.006 Lecture 13: Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&ab_channel=MITOpenCourseWare)
