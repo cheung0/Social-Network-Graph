@@ -3,14 +3,14 @@
 
 ### Built With
 
-* [Java]
+* Java
 * [Stanford Network Analysis Project Facebook Data](http://snap.stanford.edu/)
 
 ### Data Structures and Algorithms Implemented
 
-* [Adjacency List]
-* [Breadth-First Search]
-* [Connectedness of a Graph]
+* Adjacency List
+* Breadth-First Search
+* Connectedness of a Graph
 
 
 
